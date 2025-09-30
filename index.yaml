@@ -280,6 +280,160 @@ documenten:
     link: "Interne Beaumont-documenten"
     rol: "Formatreferentie; model voor opbouw en stijl nieuwe storyboard"
 
+  - id: 14
+    titel: "Poster denkrichtingen Oostelijk Nijkerk"
+    bestandsnaam: "Nijkerk poster 1.pdf"
+    type: "Visueel participatiemateriaal"
+    datum: "2025"
+    bron: "Gemeente Nijkerk / CB5"
+    status: "Definitief gebruikt in bijeenkomsten"
+    gewicht: "hoog"
+    samenvatting: |
+      Poster met vier denkrichtingen als input voor participatie:
+      1. Hoogstedelijke hub: station en Luxool, sportcluster Oude Amersfoortseweg
+      2. Sport- en recreatieclusters Luxool, hoogstedelijke wijk Oude Amersfoortseweg
+      3. 'Passend bij Nijkerkse schaal': verspreide woningbouw en sport verdeeld
+      4. Compact bouwen: zoveel mogelijk landschap behouden
+      Met citaten van deelnemers:
+      - "Duurzame mobiliteit, hoogstedelijk en autoluw wonen"
+      - "Hoogbouw bij het station en Luxool met laagbouw aan de randen"
+      - "Geen verbindingsweg door landgoed Salentein"
+      - "Sport verplaatsen is kapitaalvernietiging"
+      - "We zijn geen Amersfoort of Vathorst"
+      - "Landschap is zo bijzonder dat het zoveel mogelijk behouden moet blijven"
+      - "In hoge dichtheid bouwen om zoveel mogelijk landschap te behouden"
+    link: "Intern participatieposter"
+    rol: "Visuele weergave; hielp discussie structureren tijdens werkavonden"
+
+  - id: 15
+    titel: "Poster participatiescenario 1"
+    bestandsnaam: "Nijkerk Poster 2.pdf"
+    type: "Visueel participatiemateriaal / scenario"
+    datum: "2025"
+    bron: "Gemeente Nijkerk / CB5"
+    status: "Concept gebruikt in participatieproces"
+    gewicht: "hoog"
+    samenvatting: |
+      Poster met visualisatie participatiescenario 1 (Oude Amersfoortseweg, 
+      Bronswerk, Luxool en station). 
+      Kenmerken:
+      - Woningbouw vooral rond station en Luxool
+      - Lage dichtheid aan de randen
+      - Sport geconcentreerd bij Oude Amersfoortseweg
+      Belangrijke aandachtspunten:
+      - Verbindingsweg beïnvloedt landschap bij landgoed Salentein
+      - Woningen buiten kaders Omgevingsvisie (Oude Barneveldseweg, Amersfoortseweg)
+      - Tunnel Bloemendaalseweg → verlies langzaamverkeersverbinding
+      - Hoge kosten verplaatsing sport
+      - Groene verbindingen stad–landschap beperkt mogelijk
+      - Inprikkers lossen verkeersknelpunten onvoldoende op
+    link: "Intern participatieposter"
+    rol: "Visueel discussiemateriaal; illustreert dilemma’s scenario 1"
+
+  - id: 16
+    titel: "Poster participatiescenario 2"
+    bestandsnaam: "Nijkerk Poster 3.pdf"
+    type: "Visueel participatiemateriaal / scenario"
+    datum: "2025"
+    bron: "Gemeente Nijkerk / CB5"
+    status: "Concept gebruikt in participatieproces"
+    gewicht: "hoog"
+    samenvatting: |
+      Poster met visualisatie participatiescenario 2 (Oude Amersfoortseweg, 
+      Bronswerk, Luxool en station).
+      Kenmerken:
+      - Woningbouwuitbreiding vooral rond Oude Amersfoortseweg
+      - Sport verplaatst naar Luxoollocatie
+      Belangrijke aandachtspunten:
+      - Sportperceel Bronswerk te klein, verplaatsing/intensivering kostbaar
+      - Ontbreken inprikker Berencamperweg (N798) → buiten Omgevingsvisie
+      - Eén inprikker zonder doorgaande route → weinig effect op verkeersdruk
+      - Geen synergie wonen/sport/onderwijs
+      - Beperkte groene verbinding stad–landschap
+      - Hoge gebouwen langs spoor contrasteren met lage bebouwing elders
+      - Hoogstedelijk bouwen ver van station → meer autogebruik, hogere parkeernorm
+      - Woningen oostzijde Oude Amersfoortseweg vallen buiten Omgevingsvisie
+      - Verbindingsweg heeft sterke landschappelijke impact
+      - Fietstunnels onder spoor lastig inpasbaar
+      - Kaders Omgevingsvisie: max. bouwhoogte 20 meter
+    link: "Intern participatieposter"
+    rol: "Visueel discussiemateriaal; illustreert dilemma’s scenario 2"
+
+  - id: 17
+    titel: "Poster participatiescenario 3"
+    bestandsnaam: "Nijkerk Poster 4.pdf"
+    type: "Visueel participatiemateriaal / scenario"
+    datum: "2025"
+    bron: "Gemeente Nijkerk / CB5"
+    status: "Concept gebruikt in participatieproces"
+    gewicht: "hoog"
+    samenvatting: |
+      Poster met visualisatie participatiescenario 3 (Oude Amersfoortseweg, 
+      Bronswerk, Luxool en station).
+      Kenmerken:
+      - Circa 2000 woningen vooral in lage dichtheden
+      - Veel ruimte nodig → uitbreiding ver het landschap in
+      - Nauwelijks voorzieningen opgenomen
+      Belangrijke aandachtspunten:
+      - Woningen buiten kaders Omgevingsvisie (Oude Barneveldseweg, Amersfoortseweg)
+      - Oude Barneveldseweg snijdt woongebieden door
+      - Lage dichtheid verder van centrum/OV → hogere parkeernorm, meer autogebruik
+      - Hogere belasting op bestaande wegennet
+      - Beperkte groene verbinding stad–landschap
+      - Fietstunnel onder spoor moeilijk inpasbaar
+      - Mogelijk voldoende bestaande voorzieningen, maar nieuwe ontbreken in scenario
+    link: "Intern participatieposter"
+    rol: "Visueel discussiemateriaal; illustreert dilemma’s
+
+  - id: 18
+    titel: "Poster participatiescenario 4"
+    bestandsnaam: "Nijkerk Poster 5.pdf"
+    type: "Visueel participatiemateriaal / scenario"
+    datum: "2025"
+    bron: "Gemeente Nijkerk / CB5"
+    status: "Concept gebruikt in participatieproces"
+    gewicht: "hoog"
+    samenvatting: |
+      Poster met visualisatie participatiescenario 4 (Oude Amersfoortseweg, 
+      Bronswerk, Luxool en station).
+      Kenmerken:
+      - Circa 2000 woningen in hoge dichtheden → relatief weinig ruimte nodig
+      - Hoogstedelijke woningbouw grenst direct aan landschap
+      Belangrijke aandachtspunten:
+      - Extra belasting bestaande wegen bij hoogstedelijk Bronswerk
+      - Aansluiting verbindingsweg nodig; kruising Amersfoortseweg–vd Krolstraat buiten Omgevingsvisie
+      - Nieuw kruispunt nabij tunnel Amersfoortseweg vraagt zorgvuldig ontwerp
+      - Tunnel Bloemendaalseweg → sluiting overweg, verlies langzaamverkeersverbinding
+      - Kosten sportverplaatsing waarschijnlijk hoog; sport schuift ver het landschap in
+      - Sport ligt relatief dicht bij Veensche Boys
+      - Langzaamverkeersverbinding Bronswerk–Luxool moeilijk inpasbaar
+      - Fietstunnel onder spoor lastig uitvoerbaar
+      - Omgevingsvisie stelt max. bouwhoogte 20 meter
+    link: "Intern participatieposter"
+    rol: "Visueel discussiemateriaal; illustreert dilemma’s scenario 4"
+
+  - id: 19
+    titel: "Poster onderzoeken Oostelijk Nijkerk"
+    bestandsnaam: "Nijkerk Poster 6.pdf"
+    type: "Visueel overzicht / onderzoeksagenda"
+    datum: "2025"
+    bron: "Gemeente Nijkerk / CB5"
+    status: "Concept, ter ondersteuning participatieproces"
+    gewicht: "gemiddeld"
+    samenvatting: |
+      Poster met overzicht van thema’s die nader onderzocht worden:
+      - Verplaatsen of clusteren sportvoorzieningen
+      - Omvang voorzieningen (zorg, onderwijs) en combinaties met sport
+      - Identiteit station Nijkerk
+      - Landschap en aanwezige cultuurhistorie
+      - Mobiliteit: auto, fiets, OV en verkeersontsluiting
+      - Financiële consequenties
+      - Netbewust ontwikkelen: omgaan met netcongestie
+      - Huidige functies en milieucontouren
+    link: "Intern participatieposter"
+    rol: "Ondersteunend materiaal; laat zien welke vraagstukken nog openstaan"
+
+
 ontbrekende_documenten:
   - beschrijving: "Formeel raadsbesluit januari 2025"
     opmerking: "Informatie wel in CB5-rapport hoofdstuk 2.4"
