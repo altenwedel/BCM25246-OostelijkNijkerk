@@ -1,1 +1,312 @@
+---
+# Index documenten Oostelijk Nijkerk - Storyboard ontwikkeling
+# Versie: 2.0
+# Datum: September 2025
 
+metadata:
+  project: "Oostelijk Nijkerk - Gebiedsuitwerking"
+  opdrachtgever: "Gemeente Nijkerk"
+  opdrachtnemer: "Beaumont Communicatie & Management"
+  laatste_update: "2025-09-30"
+  doel: "Gestructureerd overzicht documenten voor storyboard videovoorlichting"
+
+documenten:
+  - id: 1
+    titel: "Briefing en opdracht"
+    bestandsnaam: "Briefing Sicko_videos proces Oostelijk Nijkerk.pdf"
+    type: "Interne briefing/opdracht"
+    datum: "2025-09"
+    bron: "Beaumont Communicatie & Management"
+    status: "Actueel, leidend document"
+    gewicht: "zeer_hoog"
+    samenvatting: |
+      Opdracht voor drie video's over participatieproces:
+      - Video 1: Uitleg plenair proces (1-2 min)
+      - Video 2: Uitleg 4 scenario's (max 4 min)
+      - Video 3: Gecombineerde versie website
+      Wethouder Esther Heutink-Wenderich presenteert.
+      Stijl: niet promotioneel, authentiek, 'typisch Nijkerk'.
+      Context: bijeenkomsten 14-15 oktober 2025.
+      Budget: 36 uur.
+    link: "Intern document Beaumont"
+    rol: "Kapstokdocument; bepaalt toon, doelgroep en vorm"
+
+  - id: 2
+    titel: "Terugblik vorig project"
+    bestandsnaam: "25246 38 terugblik vorig project.md"
+    type: "Evaluatie/reflectieverslag"
+    datum: "2024"
+    bron: "Interne analyse"
+    status: "Referentiedocument"
+    gewicht: "hoog"
+    samenvatting: |
+      Lessen uit eerder aftermovie-project:
+      - Continuïteit in videoreeksen cruciaal
+      - Authentieke communicatie: korte zinnen, direct
+      - Briefing precies volgen (niet te promotioneel)
+      - Democratisch proces toegankelijk presenteren
+      - Verschillende stakeholderperspectieven respecteren
+    link: "Intern document"
+    rol: "Stijlreferentie; helpt fouten vermijden"
+
+  - id: 3
+    titel: "Omgevingsvisie 2040"
+    bestandsnaam: "Omgevingsvisie (1.0) Gemeente Nijkerk 2040 Nijkerk.md"
+    type: "Strategisch beleidsdocument"
+    datum: "2022-11"
+    bron: "Gemeente Nijkerk"
+    status: "Vastgesteld door gemeenteraad"
+    gewicht: "gemiddeld"
+    samenvatting: |
+      Lange termijn opgaven tot 2040: wonen, werken, landschap, 
+      energie, mobiliteit. Oostelijk Nijkerk benoemd als 
+      ontwikkellocatie. Tot stand gekomen na participatie 
+      (104 reacties verwerkt). Versie 2.0 komt met meer thema's.
+    link: "https://www.nijkerk.eu/omgevingsvisie-1.0"
+    rol: "Achtergrond; legitimatie en beleidscontext"
+
+  - id: 4
+    titel: "Kaders januari 2025"
+    bestandsnaam: "kaders_nijkerk.md + rapportage CB 5.pdf (hoofdstuk 2.4)"
+    type: "Raadsbesluit / kaderstellend document"
+    datum: "2025-01-30"
+    bron: "Gemeenteraad Nijkerk"
+    status: "Vastgesteld - bindende randvoorwaarden"
+    gewicht: "zeer_hoog"
+    samenvatting: |
+      Zes themagebieden met harde kaders:
+      1. Wonen: Min. 2000 woningen 2030-2040, hoogbouw tot 50m 
+         bij station, max 20m Slichtenhorst
+      2. Buitensport: Huidige capaciteit + uitbreiding 
+         (3-4 kunstgrasvelden, 2 korfbal, 4-5 tennis)
+      3. Landschap: Aansluiten slagen-/kampenlandschap, 
+         versterken groen, recreatief uitloopgebied
+      4. Station: P+R behouden, doorgaand verkeer verminderen, 
+         stationsplein versterken
+      5. Ontsluiting: Noordoost en zuidoost verbindingswegen, 
+         autoluwe buurten
+      6. Voorzieningen: Compleet basisniveau, gezonde leefstijl
+    link: "Raadsdocument gemeente Nijkerk"
+    rol: "Spelregels; randvoorwaarden voor alle scenario's"
+
+  - id: 5
+    titel: "Rapportage CB5 - Analyse opgave"
+    bestandsnaam: "rapportage CB 5.pdf"
+    type: "Inhoudelijke analyse / adviesrapport"
+    datum: "2024-12"
+    bron: "CB5 Stedenbouw"
+    status: "Vastgesteld door gemeenteraad januari 2025"
+    gewicht: "zeer_hoog"
+    samenvatting: |
+      Uitgebreide analyse Oostelijk Nijkerk 2030-2040:
+      - Ontwikkelingen, trends, ambities
+      - Analyse per deelgebied (Luxool, Bronswerk, Slichtenhorst)
+      - Kansen, zorgen, milieutechnische aandachtspunten
+      - Bouwstenen: modulaire elementen (woningdichtheden, 
+        sport, verkeer, groen)
+      - "Nijkerkse barcode": visualisatie functies/ruimtegebruik
+      - Dilemma's: wonen vs landschap, hoogbouw vs kleinschalig
+    link: "https://www.nijkerk.eu/gebiedsuitwerking-oostelijk-nijkerk"
+    rol: "Onderbouwing; essentieel voor uitleg scenario's en dilemma's"
+
+  - id: 6
+    titel: "Sfeerverslag 8 april 2025"
+    bestandsnaam: "Sfeerverslag 8 april 2025 Oostelijk NIjkerk.pdf"
+    type: "Verslag informatiebijeenkomst"
+    datum: "2025-04-08"
+    bron: "Gemeente Nijkerk / Beaumont"
+    status: "Definitief verslag"
+    gewicht: "hoog"
+    samenvatting: |
+      Eerste informatiebijeenkomst Hart van Holland.
+      Kansen en zorgen per thema:
+      - Landschap: zorgen verlies groen, kansen verbindingen
+      - Wonen: zorgen schaal/dichtheid, kansen betaalbaarheid
+      - Sport: zorgen verplaatsing, kansen clustering
+      - Mobiliteit: zorgen verkeersdrukte, kansen OV/fiets
+      Veel vragen over proces, transparantie, weglocaties.
+    link: "https://www.nijkerk.eu/bijeenkomsten-in-2025"
+    rol: "Bewonersstem; essentieel voor participatieve insteek"
+
+  - id: 7
+    titel: "Sfeerverslag 10 en 11 juni 2025"
+    bestandsnaam: "Sfeerverslag 10 en 11 juni Oostelijk NIjkerk.pdf"
+    type: "Verslag werkbijeenkomsten"
+    datum: "2025-06-10/11"
+    bron: "Gemeente Nijkerk / Beaumont"
+    status: "Definitief verslag"
+    gewicht: "zeer_hoog"
+    samenvatting: |
+      Twee werkavonden met 150 deelnemers totaal.
+      Interactief spel op grote kaarten: opgaven plaatsen 
+      (wonen, natuur, sport, voorzieningen, mobiliteit).
+      Uitgangspunt: minimaal 2000 woningen.
+      Uitkomsten:
+      - Voorkeur hoogbouw bij station (clustering)
+      - Behoud landschap Salentein belangrijk
+      - Discussie rondwegen vs inprikkers
+      - Verplaatsing sport lastig vraagstuk
+      - Veel verschillende visies
+      Input vormde basis voor vier participatiescenario's CB5.
+    link: "https://www.nijkerk.eu/bijeenkomsten-in-2025"
+    rol: "Inputbron; directe koppeling bewonersbijdrage naar scenario's"
+
+  - id: 8
+    titel: "Participatiescenario's 10 juni 2025"
+    bestandsnaam: "Rapportage participatiescenario's 10 juni 2025.pdf"
+    type: "Participatie-output / scenario-rapportage"
+    datum: "2025-06-10"
+    bron: "Deelnemers werkbijeenkomst"
+    status: "Tussendocument"
+    gewicht: "hoog"
+    samenvatting: |
+      Gedocumenteerde scenario's eerste werkavond.
+      Diversiteit aan ideeën: hoogbouw bij station vs verspreide 
+      laagbouw, grote rondwegen vs inprikkers.
+      Deze diversiteit = input voor CB5 om tot vier samengestelde 
+      participatiescenario's te komen.
+    link: "https://cuatro.sim-cdn.nl/nijkerk/uploads/Rapportage%20participatiescenario's%2010%20juni%202025_0.pdf"
+    rol: "Illustreert diversiteit aan oplossingen"
+
+  - id: 9
+    titel: "Participatiescenario's 11 juni 2025"
+    bestandsnaam: "Rapportage participatiescenario's 11 juni 2025.pdf"
+    type: "Participatie-output / scenario-rapportage"
+    datum: "2025-06-11"
+    bron: "Deelnemers werkbijeenkomst"
+    status: "Tussendocument"
+    gewicht: "hoog"
+    samenvatting: |
+      Gedocumenteerde scenario's tweede werkavond.
+      Vergelijkbaar met 10 juni maar andere deelnemers, 
+      andere accenten. Ook hier grote diversiteit, 
+      illustreert complexiteit opgave.
+    link: "https://cuatro.sim-cdn.nl/nijkerk/uploads/Rapportage%20participatiescenario's%2011%20juni%202025.pdf"
+    rol: "Bewijst brede participatie en diversiteit inbreng"
+
+  - id: 10
+    titel: "Vier uitgewerkte scenario's (concept)"
+    bestandsnaam: "CB5 IND50004909BA0 panelen scenarios Nijkerk Oost concept.pdf"
+    type: "Conceptdocument stedenbouwkundige scenario's (visuele panelen)"
+    datum: "2025-zomer"
+    bron: "CB5 Stedenbouw"
+    status: "Concept, wordt oktober 2025 besproken"
+    gewicht: "zeer_hoog"
+    samenvatting: |
+      Vier participatiescenario's met visualisaties:
+      
+      Scenario 1 - Uitbreiden bij Luxool:
+      Woningbouw rond Luxool/station, sport naar Slichtenhorst.
+      + Clustering voorzieningen, behoud landschap elders
+      - Overlast sport Nijkerkerveen, kosten verplaatsing
+      
+      Scenario 2 - Uitbreiden bij Oude Amersfoortseweg:
+      Woningbouw verspreid incl. Amersfoortseweg, sport deels Luxool.
+      + Hoogteafbouw naar landschap, differentiatie woningen
+      - Gemiste kans station, minder clustering
+      
+      Scenario 3 - Lage dichtheid:
+      Verspreide laagbouw over groot gebied.
+      + Past bij Nijkerkse schaal, wandelen buitengebied
+      - Veel landschap verdwijnt, hoog autogebruik
+      
+      Scenario 4 - Hoge dichtheid:
+      Hoogbouw bij station, landschap behouden, sport Slichtenhorst.
+      + Veel landschap blijft, station optimaliseren
+      - Hogere kosten, minder groene straten hoogbouw
+      
+      Elk scenario: kaarten, aandachtspunten per thema, voor-/nadelen.
+    link: "Intern CB5-document"
+    rol: "HART VAN VIDEO 2; moet helder uitgelegd en visueel gemaakt worden"
+
+  - id: 11
+    titel: "Nieuwsberichten en webcontent"
+    bestandsnaam: "Diverse .md bestanden nijkerk.eu"
+    type: "Publiekscommunicatie"
+    datum: "2025 (doorlopend)"
+    bron: "Gemeente Nijkerk (website)"
+    status: "Actuele communicatie"
+    gewicht: "gemiddeld"
+    samenvatting: |
+      Verzameling nieuwsberichten, uitnodigingen, procesinformatie 
+      van www.nijkerk.eu/oostelijk-nijkerk.
+      Updates bijeenkomsten, procesuitleg, praktische info.
+      Toon: toegankelijk, direct, uitnodigend maar niet promotioneel.
+      Terugkerend thema: "Samen bouwen aan de toekomst".
+    link: "https://www.nijkerk.eu/oostelijk-nijkerk"
+    rol: "Tone-of-voice referentie; consistente communicatie"
+
+  - id: 12
+    titel: "Planning 2025-2026"
+    bestandsnaam: "Planning Nijkerk.md + Bijeenkomsten in 2025 Nijkerk.md"
+    type: "Procesplanning / tijdlijn"
+    datum: "2025"
+    bron: "Gemeente Nijkerk"
+    status: "Actuele planning"
+    gewicht: "hoog"
+    samenvatting: |
+      Tijdlijn participatieproces:
+      - Januari 2025: Gemeenteraad stelt kaders vast
+      - 8 april 2025: Eerste informatiebijeenkomst
+      - 10-11 juni 2025: Werkbijeenkomsten (scenario's bedenken)
+      - Zomer 2025: CB5 werkt participatiescenario's uit
+      - 14-15 oktober 2025: Werkbijeenkomsten (reactie scenario's)
+      - 26 november 2025: Inloop alle Nijkerkers
+      - 2026: Voorkeursscenario uitwerken → raadsbesluit
+    link: "https://www.nijkerk.eu/planning"
+    rol: "Structuurlijn; bruikbaar als visuele tijdlijn in storyboard"
+
+  - id: 13
+    titel: "Eerdere storyboards 2023"
+    bestandsnaam: "25218 23 storyboard omgevingsvisie nijkerk 02.pdf + 25214 23 storyboard workshop nijkerk 03.pdf"
+    type: "Visueel script (beeld/voice-over/geluid)"
+    datum: "2023"
+    bron: "Beaumont Communicatie & Management"
+    status: "Referentiedocument"
+    gewicht: "hoog"
+    samenvatting: |
+      Eerdere storyboards Nijkerkse participatieprocessen.
+      Scènestructuur: BEELD / TEKST (of VOICE-OVER) / GELUID.
+      Wethouder Heutink-Wenderich gezicht van video's.
+      Kenmerken:
+      - Directe aanspreekvorm ("u", "we", "samen")
+      - Korte, heldere zinnen
+      - Wethouder + visualisaties (puzzels, vragen, tijdlijnen)
+      - Toegankelijke taal zonder jargon
+      - Visuele elementen ondersteunen tekst
+      - Rustig tempo (muziekje + omgevingsgeluid)
+      - Tijdlijn als visueel element werkt goed
+      - Afsluiting: "want we doen het samen in Nijkerk"
+    link: "Interne Beaumont-documenten"
+    rol: "Formatreferentie; model voor opbouw en stijl nieuwe storyboard"
+
+ontbrekende_documenten:
+  - beschrijving: "Formeel raadsbesluit januari 2025"
+    opmerking: "Informatie wel in CB5-rapport hoofdstuk 2.4"
+  - beschrijving: "PowerPoint-presentaties bijeenkomsten"
+    opmerking: "Gebruikt op 8 april en 10-11 juni"
+  - beschrijving: "Video-footage eerdere bijeenkomsten"
+    opmerking: "Bestaande video's waarnaar verwezen wordt"
+
+aanbevelingen_gebruik:
+  - prioriteit: 1
+    actie: "Start met briefing (#1)"
+    reden: "Geeft kaders voor hele project"
+  - prioriteit: 2
+    actie: "Bestudeer eerdere storyboards (#13)"
+    reden: "Voor format, toon en structuur"
+  - prioriteit: 3
+    actie: "Gebruik CB5-rapport (#5) en scenario-panelen (#10)"
+    reden: "Voor inhoudelijke uitleg scenario's"
+  - prioriteit: 4
+    actie: "Integreer bewonersinput (#6, #7, #8, #9)"
+    reden: "Maak participatie zichtbaar"
+  - prioriteit: 5
+    actie: "Visualiseer proces (#12)"
+    reden: "Tijdlijn is essentieel oriëntatiepunt"
+  - prioriteit: 6
+    actie: "Check kaders (#4)"
+    reden: "Randvoorwaarden moeten duidelijk zijn"
+  - prioriteit: 7
+    actie: "Leer van reflectie (#2)"
+    reden: "Vermijd eerdere valkuilen"
